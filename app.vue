@@ -1,5 +1,5 @@
 <template>
-1111111
+11122222
   <div>
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
